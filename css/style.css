@@ -17,13 +17,28 @@
 }
 
 @font-face {
-	font-family: 'Minecrafter';
+	font-family: 'boom';
 	src: url('/icon-fonts/Minecrafter.Reg.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
+.creeper{
+	font-family: 'creeper';
+}
+.boom{
+	font-family: 'boom';
+}
 
+.green{
+	color: white;
+	transition: all 300ms ease-in-out 0s;
+}
+
+.green:hover{
+	transition: all 300ms ease-in-out 0s;
+	color: #69DC42 !important;
+}
 
 html,
 body {

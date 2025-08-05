@@ -30,8 +30,18 @@
 	font-family: 'boom';
 }
 
+.anchor-green{
+	color: #69DC42 !important;
+	transition: all 300ms ease-in-out 0s;
+}
+
+.anchor-green:hover{
+	transition: all 300ms ease-in-out 0s;
+	color: #ffffff !important;
+}
+
 .green{
-	color: white;
+	color: white !important;
 	transition: all 300ms ease-in-out 0s;
 }
 

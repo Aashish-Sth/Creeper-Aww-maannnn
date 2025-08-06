@@ -11,14 +11,14 @@
 
 @font-face {
 	font-family: 'creeper';
-	src: url('/icon-fonts/Minecraftia-Regular.ttf') format('truetype');
+	src: url('../icon-fonts/Minecraftia-Regular.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'boom';
-	src: url('/icon-fonts/Minecrafter.Reg.ttf') format('truetype');
+	src: url('../icon-fonts/Minecrafter.Reg.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -908,7 +908,7 @@ ol {
 
 .page-info-section .pi-content {
 	position: absolute;
-	width: 100%;
+	width: 150%;
 	bottom: 65px;
 	left: 0;
 	z-index: 2;
